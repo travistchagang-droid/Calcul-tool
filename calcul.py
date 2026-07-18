@@ -1,1 +1,1 @@
-resultat = 5 + 3 print(resultat)
+resultat = 10 + 3 print(resultat)
