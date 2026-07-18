@@ -12,7 +12,7 @@ def calculer(a, b, operation):
     else:
         return "Opération invalide"
 
-a = 5
+a = 6
 b = 3
 operation = "+"
 
